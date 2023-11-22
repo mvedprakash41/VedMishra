@@ -1,2 +1,3 @@
-This is my first git repository
-# VedMishra
+This is my first git repositoy 
+
+Author - Ved Mishra
